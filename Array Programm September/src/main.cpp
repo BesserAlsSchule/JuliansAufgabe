@@ -1,18 +1,6 @@
 #include "main.h"
 
-/*#include "a_leererBehaelter.cpp"
-#include "b_zusammenstellungFesterAnzahlBehaelter.cpp"
-#include "c_neuenBehaelterAnErsterStelleEinbauen.cpp"
-#include "d_neuenBehaelterAnLetzterStelleEinbauen.cpp"
-#include "e_neuenBehaelterAnBeliebigerStelleEinbauen.cpp"
-#include "f_erstenBehaelterLoeschen.cpp"
-#include "g_letztenBehaelterLoeschen.cpp"
-#include "h_beliebigenBehaelterLoeschen.cpp"
-#include "i_zusammenstellungVonVorneNachHintenAuflisten.cpp"
-#include "j_zusammenstellungVonHintenNachVorneAuflisten.cpp"
-#include "k_beliebigenBehaelterAuslesen.cpp"
-#include "l_beliebigenWertInZusammenstellungAendern.cpp"
-#include "m_werteAufsteigendOderAbsteigendSortieren.cpp"
+/*
 */
 /*
 Behälter:
