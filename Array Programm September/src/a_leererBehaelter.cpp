@@ -1,5 +1,9 @@
 #include "main.h"
 
+/// <summary>
+/// erstelle leeres array
+/// </summary>
+/// <returns></returns>
 
 int* a_leererBehaelter()
 {   
