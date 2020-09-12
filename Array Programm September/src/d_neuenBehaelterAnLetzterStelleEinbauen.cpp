@@ -3,6 +3,12 @@
 #include <stdlib.h>
 #include <cstring>
 
+/// <summary>
+/// baue wert ein an letzter stelle des arrays
+/// </summary>
+/// <param name="values"></param>
+/// <returns></returns>
+
 int* d_neuenBehaelterAnLetzterStelleEinbauen(int* values)
 {
     int sizeOfNewValues = values[0];
@@ -39,6 +45,7 @@ int* d_neuenBehaelterAnLetzterStelleEinbauen(int* values)
     {
         cout << values[i] << endl;
     }
+
     return values;   //verändert
 }
 

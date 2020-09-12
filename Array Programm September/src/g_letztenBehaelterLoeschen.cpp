@@ -1,6 +1,12 @@
 #include "main.h"
 #include <iostream>
 
+/// <summary>
+/// lösche letzten wert
+/// </summary>
+/// <param name="values"></param>
+/// <returns></returns>
+
 int* g_letztenBehaelterLoeschen(int* values)
 {
     unsigned int numberOfValues = values[0];

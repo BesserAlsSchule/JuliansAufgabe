@@ -3,6 +3,12 @@
 #include <stdlib.h>
 #include <cstring>
 
+/// <summary>
+/// fülle array values mit wert an index[0]
+/// </summary>
+/// <param name="values"></param>
+/// <returns></returns>
+
 int* c_neuenBehaelterAnErsterStelleEinbauen(int *values)
 {
     //int uservalue = 0;

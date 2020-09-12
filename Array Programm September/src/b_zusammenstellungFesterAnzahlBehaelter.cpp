@@ -5,6 +5,11 @@
 #include <cstring>
 #include <stdexcept>
 
+/// <summary>
+/// definiere größe des arrays und fülle mit wertebn
+/// </summary>
+/// <returns></returns>
+
 int* b_zusammenstellungFesterAnzahlBehaelter()
 {
     srand(time(0));
@@ -50,5 +55,6 @@ int* b_zusammenstellungFesterAnzahlBehaelter()
     {
         cout << "Deine Auswahl liegt au\341erhalb des G\201ltigkeitsbereichs.\nGib 1 ein, um die Werte vorbelegen zu lassen, oder gib 2 ein, um die Werte selbst festzulegen.\n";
     }
+
     return values;  //verändert
 }

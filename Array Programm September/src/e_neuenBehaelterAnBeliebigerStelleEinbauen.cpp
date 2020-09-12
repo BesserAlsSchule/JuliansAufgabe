@@ -4,7 +4,7 @@
 #include <cstring>
 
 /// <summary>
-/// Das ist die Beschreibung
+/// baue wert an beliebiger stelle ein
 /// </summary>
 /// <param name="values"> Das eist der Parameter Value</param>
 /// <returns> Es wird etwas zurückgegeben</returns>

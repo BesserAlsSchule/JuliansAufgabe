@@ -3,6 +3,12 @@
 
 using namespace std;
 
+/// <summary>
+/// lösche wert aus array an beliebiger stelle (user entscheidet)
+/// </summary>
+/// <param name="values"></param>
+/// <returns></returns>
+
 int* h_beliebigenBehaelterLoeschen(int* values)
 {
     unsigned int numberOfValues = values[0];

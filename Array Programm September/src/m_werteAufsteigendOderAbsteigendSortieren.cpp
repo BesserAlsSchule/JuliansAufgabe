@@ -5,6 +5,11 @@
 
 using namespace std;
 
+/// <summary>
+/// bubblesort again?=
+/// </summary>
+/// <returns></returns>
+
 int *m_werteAufsteigendOderAbsteigendSortieren()
 {
     int* values = new int;

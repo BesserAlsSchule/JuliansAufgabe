@@ -3,7 +3,13 @@
 
 using namespace std;
 
-void *j_zusammenstellungVonHintenNachVorneAuflisten(int *values)
+/// <summary>
+/// bubblesort in die andere richtung?
+/// </summary>
+/// <param name="values"></param>
+/// <returns></returns>
+
+int *j_zusammenstellungVonHintenNachVorneAuflisten(int *values)
 {
     int numberOfValues = values[0];
 
@@ -13,6 +19,6 @@ void *j_zusammenstellungVonHintenNachVorneAuflisten(int *values)
     {
         cout << values[i] << endl;
     }
-    return 0;
+    return;
 }
 

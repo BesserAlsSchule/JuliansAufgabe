@@ -5,7 +5,13 @@
 
 using namespace std;
 
-void *k_beliebigenBehaelterAuslesen(int *values)
+/// <summary>
+/// lese beliebigen wert aus array aus
+/// </summary>
+/// <param name="values"></param>
+/// <returns></returns>
+
+int *k_beliebigenBehaelterAuslesen(int *values)
 {
     int numberOfValues = values[0];
     int* Values = new int[numberOfValues];
@@ -34,5 +40,6 @@ void *k_beliebigenBehaelterAuslesen(int *values)
         }
             
     }   while (error == true || repeat == true);
-    return 0;
+    
+    return;
 }

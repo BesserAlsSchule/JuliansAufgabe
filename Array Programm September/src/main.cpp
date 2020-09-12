@@ -68,6 +68,12 @@ spätere Todos:
 
 -          binärer Baum
 */
+
+/// <summary>
+/// main() muss umstruktiert werden -> kann mit switch case nicht funzen
+/// </summary>
+/// <returns></returns>
+
 int main()
 {
     SetConsoleTitle(LPCWSTR("Finger\201bungen in der Programmierung"));

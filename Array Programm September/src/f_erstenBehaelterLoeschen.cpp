@@ -5,6 +5,12 @@
 
 using namespace std;
 
+/// <summary>
+/// lösche wert an index [0]
+/// </summary>
+/// <param name="values"></param>
+/// <returns></returns>
+
 int* f_erstenBehaelterLoeschen(int* values)
 {
     int sizeOfNewValues = values[0] - 1;

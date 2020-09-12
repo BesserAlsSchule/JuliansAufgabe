@@ -6,6 +6,12 @@
 
 using namespace std;
 
+/// <summary>
+/// ändere reihenfolge beliebiger werte im array
+/// </summary>
+/// <param name="values"></param>
+/// <returns></returns>
+
 int *l_beliebigenWertInZusammenstellungAendern(int *values)
 {
     //int numberOfValues = values[0];
@@ -53,6 +59,6 @@ int *l_beliebigenWertInZusammenstellungAendern(int *values)
     //}
 
     //return values;  //verändert
-    return 0;
+    return;
 }
 
